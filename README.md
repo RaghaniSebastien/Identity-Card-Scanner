@@ -6,11 +6,8 @@ It's a non-optimized proof of concept of an app that can scan french identity ca
 <br>
 We can simply add conditions that when several classes are detected, it saves the images, parse the extracted informations on it and triggers some automations like :
 - Authenfication of users on a website
-<br>
 - Compare name and faces to those in law enforcement databases
-<br>
 - Allow entrance to a secured building to specific people
-<br>
 - Autorize payments through id verification
 <br>
 <br>
