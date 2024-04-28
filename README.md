@@ -1,4 +1,4 @@
-# identity-card-scanner
+# Identity-Card-Scanner
 A tensorflow js project with a YOLO model trained to recognize french identity cards and each segments composing it.
 <br>
 <br>
