@@ -1,10 +1,14 @@
 # identity-card-scanner
 A tensorflow js project with a YOLO model trained to recognize french identity cards and each segments composing it.
 <br>
-It's a non-optimized proof of concept of an app that can scan french identity cards in a continuous video stream. 
+<br>
+It's a non-optimized proof of concept of an app that can scan french identity cards in a continuous video stream.
+<br>
 We can simply add conditions that when several classes are detected, it saves the images, parse the extracted informations on it and triggers some automations...
 <br>
+<br>
 It can recognize the ROI (the identity card) + 12 additional classes including portrait image, MRZ, etc..
+<br>
 It can run on any devices (computers, mobiles, tablets..) as it is hosted on a web-app and uses tensorflow js.
 
 <br>
